@@ -1,6 +1,7 @@
 # Hi 👋, I'm Zach
 
 🚀 Senior ML/AI Engineer | Leading ML Engineering @ [Waggel](https://www.waggel.co.uk)
+
 💡 Building AI-powered automation to 100x the efficency of operations team at Waggel.
 
 ## 🌍 About
