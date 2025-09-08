@@ -14,7 +14,7 @@
 - 💬 Ask me about **Automation, LLMs, AWS, and end-to-end ML**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zach-wolpe-576a44112/)
 
-I'm also an AI advisor @ [FastAI Consulting](https://fastaiconsulting.net)
+<!-- I'm also an AI advisor @ [FastAI Consulting](https://fastaiconsulting.net) -->
 
 
 <!-- ## 🔮 Philosphy
