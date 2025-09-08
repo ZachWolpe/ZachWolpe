@@ -8,7 +8,7 @@
 
 - 🔭 Currently building **AI-first microservices** 
 - 🧩 Passionate about **AI, ML, ML deployment, scalable AWS architectures, and automation**  
-- 🤝 Helping companies build meaningful **AI & ML systems**  
+- 🤝 Helping companies build impactful **AI & ML systems**  
 - 🔭 Working on **AI-powered automation systems & ML pipelines**
 - 🌱 Learning **all things MLE**
 - 💬 Ask me about **Automation, LLMs, AWS, and end-to-end ML**
