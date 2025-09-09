@@ -6,10 +6,10 @@
 
 ## 🌍 About
 
-- 🔭 Currently building **AI-first microservices** 
+- 🔭 Currently building **AI/ML-first microservices** 
 - 🧩 Passionate about **AI, ML, ML deployment, scalable AWS architectures, and automation**  
 - 🤝 Helping companies build impactful **AI & ML systems**  
-- 🔭 Working on **AI-powered automation systems & ML pipelines**
+- 🔭 Working on **AI-powered automation systems & end-to-end ML pipelines**
 - 🌱 Learning **all things MLE**
 - 💬 Ask me about **Automation, LLMs, AWS, and end-to-end ML**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zach-wolpe-576a44112/)
