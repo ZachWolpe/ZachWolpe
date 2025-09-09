@@ -12,19 +12,24 @@
 - 🔭 Working on **AI-powered automation systems & end-to-end ML pipelines**
 - 🌱 Learning **all things MLE**
 - 💬 Ask me about **Automation, LLMs, AWS, and end-to-end ML**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zach-wolpe-576a44112/)
+
 
 <!-- I'm also an AI advisor @ [FastAI Consulting](https://fastaiconsulting.net) -->
 
 
-<!-- ## 🔮 Philosphy
+## 🔮 Philosophy
 
 - 🚀 Build amazing things.
-- 👨‍💻 Become a worldclass engineer.
+- 👨‍💻 Strive for excellence.
 - 🌍 Understand the world, past, present & future.
 - 🤝 Think positive sum.
 - 🙏 Above no-one, below no-one. Head held high, with humility.
-- 📚 Learn & explore at every opportunity. -->
+- 📚 Learn & explore at every opportunity.
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-wolpe-576a44112/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zachwolpe)
 
 <!-- ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zachwolpe&show_icons=true&theme=radical&count_private=true) -->
